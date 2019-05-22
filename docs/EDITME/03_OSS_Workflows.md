@@ -22,7 +22,7 @@
  - <Insert notes here>
 
 #### Contributing Guidelines
- - <Insert notes here>
+ - Contributing to OS code also represents your company! Directly affects your brand presence
 
 #### Promoting Open Communication
  - <Insert notes here>
@@ -40,16 +40,16 @@
  - <Insert notes here>
 
 #### Release Early, Release Often
- - <Insert notes here>
+ - Define when a pull request shall be opened, right from the first commit to branch or after a squash
 
 #### Communication Forum - Make Decisions openly
  - <Insert notes here>
 
 #### Lower the barrier to collaborate
- - <Insert notes here>
+ - Use templates for issues, pull requests, and even questions
 
 #### Monitoring Metrics that matter - At Project level
- - <Insert notes here>
+ - align with oyur vision, pick metric that matches
 
 
 # Further Reading
