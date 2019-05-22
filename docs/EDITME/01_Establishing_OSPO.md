@@ -1,16 +1,16 @@
 # Why?
 
- - <Insert notes here >
-
+ - open source methods are different to conventional methods!
+ - open versus closed
 
 # OSPO - The Role and Responsibility
 
-- <Insert notes here >
-
+- "glue" between inside and outside
 
 # Potential Structure of OSPO
 
- - <Insert notes here >
+ - more a central location for different organizational units
+ - can be placed in engineering departments, but also legal or marketing
  
 
 # Management and the OSPO
